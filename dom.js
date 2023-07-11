@@ -7,7 +7,7 @@ form.addEventListener('submit', addItem);
 itemList.addEventListener('click', removeItem);
 
 
-// Add item
+// Add item 
 function addItem(e) {
   e.preventDefault();
 
